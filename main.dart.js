@@ -110439,7 +110439,7 @@ A.aCL.prototype={
 $2(a,b){var s,r=null,q=this.a,p=J.en(q.w,new A.aCz(q,b)),o=A.R(p,!0,p.$ti.i("i.E"))
 p=B.t.bk(b,2)===0?B.Rp:B.RL
 s=q.ax
-return A.hi(new A.aD(B.aC,A.bm(A.a([new A.A(25,r,A.ah(""+(b+1),r,r,r,r,r,r),r),new A.A(100,r,A.ah(q.y[b],r,r,r,r,r,r),r),A.cc(new A.A(r,r,A.jn(r,new A.aCA(q,o),o.length,r,r,!0),r),1),new A.A(100,r,A.ah(s.aZ(q.z[b].b),r,r,r,r,B.aa,r),r),new A.A(100,r,A.ah(s.aZ(q.z[b].c),r,r,r,r,B.aa,r),r)],t.p),B.a9,B.K,B.L,r),r),p)},
+return A.hi(new A.aD(B.aC,A.bm(A.a([new A.A(55,r,A.ah(""+(b+1),r,r,r,r,r,r),r),new A.A(100,r,A.ah(q.y[b],r,r,r,r,r,r),r),A.cc(new A.A(r,r,A.jn(r,new A.aCA(q,o),o.length,r,r,!0),r),1),new A.A(100,r,A.ah(s.aZ(q.z[b].b),r,r,r,r,B.aa,r),r),new A.A(100,r,A.ah(s.aZ(q.z[b].c),r,r,r,r,B.aa,r),r)],t.p),B.a9,B.K,B.L,r),r),p)},
 $S:47}
 A.aCz.prototype={
 $1(a){return a.c===this.a.y[this.b]},
@@ -119803,7 +119803,7 @@ B.aHa=new A.aD(B.TG,B.us,null)
 B.aRU=new A.aw("Laporan tanggal :  ",null,null,null,null,null,null,null,null)
 B.aM1=new A.A(150,null,B.aRU,null)
 B.aHc=new A.aD(B.of,B.aM1,null)
-B.aLI=new A.A(25,null,B.iL,null)
+B.aLI=new A.A(55,null,B.iL,null)
 B.aSn=new A.aw("No. Trans",null,null,null,null,null,null,null,null)
 B.L6=new A.A(100,null,B.aSn,null)
 B.qO=new A.A(100,null,B.LT,null)
